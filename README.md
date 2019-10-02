@@ -15,3 +15,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # loader
+
+# Bem vindo.
+
+### Segue alguns exemplos para criar Loader personalizados em Flutter.
+
+Foi usado como base para criar esses Loader o github do https://github.com/samarthagarwal
+
+Segue abaixo o exemplo dos Loaders:
+
+![](https://github.com/samarthagarwal/FlutterScreens/blob/master/screenshots/loaders.gif)
